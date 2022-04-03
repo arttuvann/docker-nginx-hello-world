@@ -3,6 +3,7 @@ Single page docker nginx
 
 **Note:**
 This repository is for testing Google Cloud Build and how code commits affect the CI/CD pipeline. No security or usefulness considerations whatsoever are made.
+Also used to build local/cloud CI/CD pipeline.
 
 NGINX webserver that serves a simple page containing its hostname, IP address and port as wells as the request URI and the local time of the webserver.
 
