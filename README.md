@@ -6,6 +6,8 @@ This repository is for CI/CD learning purposes, both in GCP and local RPi enviro
 
 NGINX webserver that serves a simple page containing its hostname, IP address and port as wells as the request URI and the local time of the webserver.
 
+(Test edit for GCP Cloud Run)
+
 The images are uploaded to Docker Hub -- https://hub.docker.com/r/dockerbogo/docker-nginx-hello-world/.
 
 How to run:
